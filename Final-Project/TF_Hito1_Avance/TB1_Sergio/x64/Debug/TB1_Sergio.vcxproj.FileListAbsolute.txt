@@ -1,0 +1,3 @@
+C:\Users\user\source\repos\TB1_Sergio\TB1_Sergio\x64\Debug\TB1_Sergio.vcxproj.AssemblyReference.cache
+C:\Users\user\source\repos\TB1-BORRADOR\TB1_Sergio\x64\Debug\TB1_Sergio.vcxproj.AssemblyReference.cache
+C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\x64\Debug\TB1_Sergio.vcxproj.AssemblyReference.cache

@@ -1,0 +1,109 @@
+﻿  TB1_Sergio.cpp
+C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\TB1_Sergio.cpp(13,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '/TB1_Sergio.cpp')
+  
+C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\GestorVuelo.h(345,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/TB1_Sergio.cpp')
+      C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\GestorVuelo.h(345,50):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\TB1_Sergio.cpp(47,42):
+          see reference to class template instantiation 'GestorVuelos<std::string>' being compiled
+          C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\GestorVuelo.h(334,10):
+          while compiling class template member function 'void GestorVuelos<std::string>::mostrarTodosLosVuelos(void)'
+              C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\GestorVuelo.h(180,38):
+              see the first reference to 'GestorVuelos<std::string>::mostrarTodosLosVuelos' in 'GestorVuelos<std::string>::mostrarMenu'
+              C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\TB1_Sergio.cpp(48,45):
+              see the first reference to 'GestorVuelos<std::string>::mostrarMenu' in 'main'
+  
+C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\GestorVuelo.h(306,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/TB1_Sergio.cpp')
+      C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\GestorVuelo.h(306,45):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\GestorVuelo.h(299,10):
+          while compiling class template member function 'void GestorVuelos<std::string>::filtrarPorEscalas(void)'
+              C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\GestorVuelo.h(177,34):
+              see the first reference to 'GestorVuelos<std::string>::filtrarPorEscalas' in 'GestorVuelos<std::string>::mostrarMenu'
+              C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\TB1_Sergio.cpp(48,45):
+              see the first reference to 'GestorVuelos<std::string>::mostrarMenu' in 'main'
+  
+C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\GestorVuelo.h(322,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/TB1_Sergio.cpp')
+  
+C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\GestorVuelo.h(286,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/TB1_Sergio.cpp')
+      C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\GestorVuelo.h(286,50):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\GestorVuelo.h(260,10):
+          while compiling class template member function 'void GestorVuelos<std::string>::filtrarPorAerolinea(void)'
+              C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\GestorVuelo.h(174,36):
+              see the first reference to 'GestorVuelos<std::string>::filtrarPorAerolinea' in 'GestorVuelos<std::string>::mostrarMenu'
+              C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\TB1_Sergio.cpp(48,45):
+              see the first reference to 'GestorVuelos<std::string>::mostrarMenu' in 'main'
+  
+C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\GestorVuelo.h(244,69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/TB1_Sergio.cpp')
+      C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\GestorVuelo.h(244,69):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\GestorVuelo.h(237,10):
+          while compiling class template member function 'void GestorVuelos<std::string>::filtrarPorPrecio(void)'
+              C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\GestorVuelo.h(171,33):
+              see the first reference to 'GestorVuelos<std::string>::filtrarPorPrecio' in 'GestorVuelos<std::string>::mostrarMenu'
+              C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\TB1_Sergio.cpp(48,45):
+              see the first reference to 'GestorVuelos<std::string>::mostrarMenu' in 'main'
+  
+C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\GestorVuelo.h(250,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/TB1_Sergio.cpp')
+  
+C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\GestorVuelo.h(220,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/TB1_Sergio.cpp')
+      C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\GestorVuelo.h(220,50):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\GestorVuelo.h(192,10):
+          while compiling class template member function 'void GestorVuelos<std::string>::buscarVuelos(void)'
+              C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\GestorVuelo.h(168,29):
+              see the first reference to 'GestorVuelos<std::string>::buscarVuelos' in 'GestorVuelos<std::string>::mostrarMenu'
+              C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\TB1_Sergio.cpp(48,45):
+              see the first reference to 'GestorVuelos<std::string>::mostrarMenu' in 'main'
+  
+C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\FormularioVuelo.h(495,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/TB1_Sergio.cpp')
+      C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\FormularioVuelo.h(495,46):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\TB1_Sergio.cpp(42,54):
+          see reference to class template instantiation 'FormularioBusquedaVuelos<std::string>' being compiled
+          C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\FormularioVuelo.h(450,10):
+          while compiling class template member function 'void FormularioBusquedaVuelos<std::string>::buscarFormulariosPorDestino(void)'
+              C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\FormularioVuelo.h(198,44):
+              see the first reference to 'FormularioBusquedaVuelos<std::string>::buscarFormulariosPorDestino' in 'FormularioBusquedaVuelos<std::string>::mostrarMenu'
+              C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\TB1_Sergio.cpp(43,43):
+              see the first reference to 'FormularioBusquedaVuelos<std::string>::mostrarMenu' in 'main'
+  
+C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\FormularioVuelo.h(300,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/TB1_Sergio.cpp')
+      C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\FormularioVuelo.h(300,46):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\FormularioVuelo.h(210,10):
+          while compiling class template member function 'void FormularioBusquedaVuelos<std::string>::completarFormulario(void)'
+              C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\FormularioVuelo.h(189,36):
+              see the first reference to 'FormularioBusquedaVuelos<std::string>::completarFormulario' in 'FormularioBusquedaVuelos<std::string>::mostrarMenu'
+              C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\TB1_Sergio.cpp(43,43):
+              see the first reference to 'FormularioBusquedaVuelos<std::string>::mostrarMenu' in 'main'
+  
+C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\FormularioVuelo.h(403,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/TB1_Sergio.cpp')
+      C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\FormularioVuelo.h(403,46):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\FormularioVuelo.h(375,10):
+          while compiling class template member function 'void FormularioBusquedaVuelos<std::string>::mostrarTodasLasBusquedas(void)'
+              C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\FormularioVuelo.h(358,37):
+              see the first reference to 'FormularioBusquedaVuelos<std::string>::mostrarTodasLasBusquedas' in 'FormularioBusquedaVuelos<std::string>::mostrarHistorialBusquedas'
+              C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\FormularioVuelo.h(195,42):
+              see the first reference to 'FormularioBusquedaVuelos<std::string>::mostrarHistorialBusquedas' in 'FormularioBusquedaVuelos<std::string>::mostrarMenu'
+              C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\TB1_Sergio.cpp(43,43):
+              see the first reference to 'FormularioBusquedaVuelos<std::string>::mostrarMenu' in 'main'
+  
+C:\Users\Effor\Downloads\TB1-BORRADOR\TB1_Sergio\FormularioVuelo.h(412,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/TB1_Sergio.cpp')
+  
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  TB1_Sergio.vcxproj -> C:\Users\Effor\Downloads\TB1-BORRADOR\x64\Debug\TB1_Sergio.exe
