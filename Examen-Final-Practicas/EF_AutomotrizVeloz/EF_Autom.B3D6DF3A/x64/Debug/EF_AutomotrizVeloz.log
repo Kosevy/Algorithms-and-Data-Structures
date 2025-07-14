@@ -1,0 +1,14 @@
+﻿  Source.cpp
+D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Repo\EF_AutomotrizVeloz\Gestor.h(188,13): warning C4984: 'if constexpr' is a C++17 language extension
+  (compiling source file 'Source.cpp')
+      D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Repo\EF_AutomotrizVeloz\Gestor.h(188,13):
+      the template instantiation context (the oldest one first) is
+          D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Repo\EF_AutomotrizVeloz\Source.cpp(16,30):
+          see reference to class template instantiation 'ListaEnlazada<DatoVenta>' being compiled
+          D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Repo\EF_AutomotrizVeloz\Gestor.h(181,10):
+          while compiling class template member function 'void ListaEnlazada<DatoVenta>::insertarHash(void)'
+              D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Repo\EF_AutomotrizVeloz\Source.cpp(40,37):
+              see the first reference to 'ListaEnlazada<DatoVenta>::insertarHash' in 'main'
+  
+  Source.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  EF_AutomotrizVeloz.vcxproj -> D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Repo\EF_AutomotrizVeloz\x64\Debug\EF_AutomotrizVeloz.exe
