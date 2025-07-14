@@ -1,0 +1,40 @@
+﻿  Source.cpp
+D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Repo\EF_BCP\Gestor.h(31,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Repo\EF_BCP\Grafo.h(96,34): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Repo\EF_BCP\Grafo.h(167,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Repo\EF_BCP\Grafo.h(167,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Repo\EF_BCP\Grafo.h(189,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Repo\EF_BCP\Grafo.h(190,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Repo\EF_BCP\Grafo.h(201,61): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Repo\EF_BCP\Grafo.h(203,60): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Repo\EF_BCP\Grafo.h(203,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Repo\EF_BCP\Grafo.h(204,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Repo\EF_BCP\Grafo.h(204,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Repo\EF_BCP\Source.cpp(26,5): error C2084: function 'int main(void)' already has a body
+      D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Repo\EF_BCP\HashTable.h(70,5):
+      see previous definition of 'main'
+  
+D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Repo\EF_BCP\Source.cpp(27,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Repo\EF_BCP\Source.cpp(58,13): error C3861: 'mostrarRegistros': identifier not found
