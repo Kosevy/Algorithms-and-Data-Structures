@@ -1,4 +1,4 @@
-* Pregunta 1: Clases y Ordenamientos (6 puntos) – Caso A:
+## Pregunta 1: Clases y Ordenamientos (6 puntos) – Caso A:
 a. Implementar un generador de datos de 350 registros para realizar una simulación de los
  datos, para este caso son 5 atributos cada uno con su tipo de dato, se debe utilizar templates
  y clases.
