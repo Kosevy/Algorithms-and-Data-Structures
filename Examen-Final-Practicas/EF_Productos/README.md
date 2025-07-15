@@ -1,6 +1,6 @@
 ## Pregunta 1 - Ordenamientos y Listas enlazadas (6 puntos)
 
-<img width="1856" height="510" alt="msedge_gFtkPU0cYQ" src="https://github.com/user-attachments/assets/3ac31851-8b59-491e-8acd-2536d2e40181" />
+<img width="1420" height="176" alt="image" src="https://github.com/user-attachments/assets/a46549f5-4d29-4b87-b251-5b0d8ed79697" />
 
 Rúbrica de Calificación:
 | Concepto | Excelente | Regular | Deficiente |
@@ -12,7 +12,7 @@ Rúbrica de Calificación:
 
 ## Pregunta 2 – Árbol Binario de Búsqueda (10 puntos)
 
-<img width="1861" height="521" alt="msedge_YpIOsnxi6M" src="https://github.com/user-attachments/assets/06cffe47-8e95-4a1f-a9cb-60728a5c3b73" />
+<img width="1026" height="147" alt="image" src="https://github.com/user-attachments/assets/8532be46-3883-4da5-946b-3b8a39ea663b" />
 
 Rúbrica de calificación
 | Concepto | Excelente | Regular | Deficiente |
@@ -26,7 +26,7 @@ Rúbrica de calificación
 
 ## Pregunta 3 – Grafos (4 puntos)
 
-<img width="1857" height="387" alt="msedge_dn1gFZmllh" src="https://github.com/user-attachments/assets/552ecd8f-c61d-42c2-b3d9-d29bf033d64e" />
+<img width="1741" height="98" alt="image" src="https://github.com/user-attachments/assets/f84e6a63-c93b-4333-b5c5-c7cb6ff2808b" />
 
 Rúbrica de calificación
 | Concepto | Excelente | Regular | Deficiente |
