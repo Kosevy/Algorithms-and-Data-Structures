@@ -1,17 +1,12 @@
-Pregunta 1: Clases y Ordenamientos (6 puntos) – Caso A
- a. Implementar un generador de datos de 350 registros para realizar una simulación de los
- datos, para este caso son 5 atributos cada uno con su tipo de dato, se debe utilizar templates
- y clases.
+Pregunta 1: Clases y Ordenamientos (6 puntos) – Caso A:
+a. Implementar un generador de datos de 350 registros para realizar una simulación de los datos, para este caso son 5 atributos cada uno con su tipo de dato, se debe utilizar templates y clases.
  Atributo - Tipo de dato
  IDVehiculo - Integer
  Marca - String
  Modelo - Integer
  Color - Integer
  Asiento - Integer
- b. Implementar un algoritmo propio de ordenamiento avanzado en base a los algoritmos
- conocidos QuickSort o MergeSort. Su propuesta de algoritmo debe ser una modificación de
- estos y debe utilizar la columna Color. Si no utiliza su propio algoritmo la respuesta no será
- considerada.
+ b. Implementar un algoritmo propio de ordenamiento avanzado en base a los algoritmos conocidos QuickSort o MergeSort. Su propuesta de algoritmo debe ser una modificación de estos y debe utilizar la columna Color. Si no utiliza su propio algoritmo la respuesta no será considerada.
  c. Implementar el algoritmo de ordenamiento de búsqueda binaria, para encontrar un valor
  ingresado por teclado, utilizar la columna Marca, si encuentra la marca mostrar el primer
  IDVehiculo.
@@ -23,8 +18,8 @@ Rúbrica de calificación:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Pregunta 2 – Árbol Binario de Búsqueda (10 puntos) – Caso A
- La clase MiArbolBinario permite representar árboles binarios de búsqueda para almacenar números enteros. Se solicita implementar las siguientes funciones:
+Pregunta 2 – Árbol Binario de Búsqueda (10 puntos) – Caso A:
+La clase MiArbolBinario permite representar árboles binarios de búsqueda para almacenar números enteros. Se solicita implementar las siguientes funciones:
  a. Primera función: En la clase MiArbolBinario se debe desarrollar la función insertar, solo deben ingresar números enteros no negativos que solo contengan entre dos y tres dígitos, por ejemplo, 45, 256,17, 598.
  b. Segunda función: En la clase MiArbolBinario se debe desarrollar la función promedio_rango, se recibirán un número entero (Valor), y devuelva el promedio de los elementos del árbol binario que están en el intervalo desde el menor valor del árbol hasta el (Valor) que fue ingresado por teclado. No es necesario que el (Valor) ingresado por teclado sea elemento del árbol binario. Si el árbol binario no tiene ningún elemento en el intervalo desde la el menor valor del árbol binario con el (Valor), la función deberá devolver cero.
  c. Tercera función: En la clase MiArbolBinario se debe desarrollar la función enOrden, para mostrar todos los elementos del árbol.
@@ -43,8 +38,8 @@ Pregunta 2 – Árbol Binario de Búsqueda (10 puntos) – Caso A
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Pregunta 3 – Grafos (4 puntos) – Caso A
- Se necesita implementar una opción que pueda crear un grafo, para representar los vértices, por ejemplo: 65, 69, 32, 18, 53 y 76. Se debe tener en cuenta que los vértices se encuentran conectados, se necesita implementar las siguientes funciones de grafos:
+Pregunta 3 – Grafos (4 puntos) – Caso A:
+Se necesita implementar una opción que pueda crear un grafo, para representar los vértices, por ejemplo: 65, 69, 32, 18, 53 y 76. Se debe tener en cuenta que los vértices se encuentran conectados, se necesita implementar las siguientes funciones de grafos:
  a. Primera función: En la clase Grafo se debe desarrollar la función registro_aleatorio, teniendo 8 vértices se pretende generar de manera aleatoria los valores de los vértices, estos valores se encuentran en el rango del 1 a 999. Además, se debe ingresar por teclado el número de arcos por cada vértice, el número de arcos para cada vértice se encuentra en el rango de 0 a 4 arcos, y para cada arco se debe ingresar el valor por teclado, estos valores se encuentran de 10 a 900, luego mostrar los valores del grafo.
  b. Segunda función: En la clase Grafo llamada función sumatoria_arcos, se debe ingresar el vértice, y debe devolver la sumatoria de los valores de sus arcos, por ejemplo, si el vértice 3, tiene cuatro arcos con valores 35, 18, 45 y 67, la sumatoria sería 165.
  
