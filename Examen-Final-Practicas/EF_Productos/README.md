@@ -1,4 +1,4 @@
-Pregunta 1 - Ordenamientos y Listas enlazadas (6 puntos)
+## Pregunta 1 - Ordenamientos y Listas enlazadas (6 puntos)
 
 <img width="1856" height="510" alt="msedge_gFtkPU0cYQ" src="https://github.com/user-attachments/assets/3ac31851-8b59-491e-8acd-2536d2e40181" />
 
