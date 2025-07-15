@@ -21,7 +21,8 @@ Rúbrica de calificación:
 - Algoritmo de ordenamiento avanzado modificado: 2 puntos (Excelente), 1 punto (Regular), 0 puntos (Deficiente)
 - Algoritmo de ordenamiento de búsqueda: 2 puntos (Excelente), 1 punto (Regular), 0 puntos (Deficiente)
 
- Pregunta 2 – Árbol Binario de Búsqueda (10 puntos) – Caso A
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Pregunta 2 – Árbol Binario de Búsqueda (10 puntos) – Caso A
  La clase MiArbolBinario permite representar árboles binarios de búsqueda para almacenar números enteros. Se solicita implementar las siguientes funciones:
  a. Primera función: En la clase MiArbolBinario se debe desarrollar la función insertar, solo deben ingresar números enteros no negativos que solo contengan entre dos y tres dígitos, por ejemplo, 45, 256,17, 598.
  b. Segunda función: En la clase MiArbolBinario se debe desarrollar la función promedio_rango, se recibirán un número entero (Valor), y devuelva el promedio de los elementos del árbol binario que están en el intervalo desde el menor valor del árbol hasta el (Valor) que fue ingresado por teclado. No es necesario que el (Valor) ingresado por teclado sea elemento del árbol binario. Si el árbol binario no tiene ningún elemento en el intervalo desde la el menor valor del árbol binario con el (Valor), la función deberá devolver cero.
@@ -39,7 +40,8 @@ Rúbrica de calificación:
 - Desarrollo de la función producto_digitos para el árbol binario de búsqueda: 2 puntos (Excelente), 1 punto (Regular), 0 puntos (Deficiente)
 - Crear un menú de opciones para cada función: 1 punto (Excelente), 0 punto (Regular), 0 puntos (Deficiente)
 
- Pregunta 3 – Grafos (4 puntos) – Caso A
+
+Pregunta 3 – Grafos (4 puntos) – Caso A
  Se necesita implementar una opción que pueda crear un grafo, para representar los vértices, por ejemplo: 65, 69, 32, 18, 53 y 76. Se debe tener en cuenta que los vértices se encuentran conectados, se necesita implementar las siguientes funciones de grafos:
  a. Primera función: En la clase Grafo se debe desarrollar la función registro_aleatorio, teniendo 8 vértices se pretende generar de manera aleatoria los valores de los vértices, estos valores se encuentran en el rango del 1 a 999. Además, se debe ingresar por teclado el número de arcos por cada vértice, el número de arcos para cada vértice se encuentra en el rango de 0 a 4 arcos, y para cada arco se debe ingresar el valor por teclado, estos valores se encuentran de 10 a 900, luego mostrar los valores del grafo.
  b. Segunda función: En la clase Grafo llamada función sumatoria_arcos, se debe ingresar el vértice, y debe devolver la sumatoria de los valores de sus arcos, por ejemplo, si el vértice 3, tiene cuatro arcos con valores 35, 18, 45 y 67, la sumatoria sería 165.
