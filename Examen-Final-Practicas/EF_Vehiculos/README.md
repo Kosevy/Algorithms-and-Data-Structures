@@ -1,12 +1,17 @@
 Pregunta 1: Clases y Ordenamientos (6 puntos) – Caso A:
-a. Implementar un generador de datos de 350 registros para realizar una simulación de los datos, para este caso son 5 atributos cada uno con su tipo de dato, se debe utilizar templates y clases.
+a. Implementar un generador de datos de 350 registros para realizar una simulación de los
+ datos, para este caso son 5 atributos cada uno con su tipo de dato, se debe utilizar templates
+ y clases.
  Atributo - Tipo de dato
  IDVehiculo - Integer
  Marca - String
  Modelo - Integer
  Color - Integer
  Asiento - Integer
- b. Implementar un algoritmo propio de ordenamiento avanzado en base a los algoritmos conocidos QuickSort o MergeSort. Su propuesta de algoritmo debe ser una modificación de estos y debe utilizar la columna Color. Si no utiliza su propio algoritmo la respuesta no será considerada.
+ b. Implementar un algoritmo propio de ordenamiento avanzado en base a los algoritmos
+ conocidos QuickSort o MergeSort. Su propuesta de algoritmo debe ser una modificación de
+ estos y debe utilizar la columna Color. Si no utiliza su propio algoritmo la respuesta no será
+ considerada.
  c. Implementar el algoritmo de ordenamiento de búsqueda binaria, para encontrar un valor
  ingresado por teclado, utilizar la columna Marca, si encuentra la marca mostrar el primer
  IDVehiculo.
