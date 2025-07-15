@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\Effor\Downloads\EB1_U202224130_RamosHinostroza_DiegoAntonio_Pregunta_1\Gestor.h(41,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Effor\Downloads\EB1_U202224130_RamosHinostroza_DiegoAntonio_Pregunta_1\Source.cpp(8,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Effor\Downloads\EB1_U202224130_RamosHinostroza_DiegoAntonio_Pregunta_1\Source.cpp(25,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Effor\Downloads\EB1_U202224130_RamosHinostroza_DiegoAntonio_Pregunta_1\Source.cpp(27,1): warning C4700: uninitialized local variable 'i' used
+  Source.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  EB1_U202224130_RamosHinostroza_DiegoAntonio_Pregunta_1.vcxproj -> C:\Users\Effor\Downloads\EB1_U202224130_RamosHinostroza_DiegoAntonio_Pregunta_1\x64\Debug\EB1_U202224130_RamosHinostroza_DiegoAntonio_Pregunta_1.exe

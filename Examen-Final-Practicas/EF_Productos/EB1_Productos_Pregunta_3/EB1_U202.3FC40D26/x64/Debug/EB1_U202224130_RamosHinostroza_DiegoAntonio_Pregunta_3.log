@@ -1,0 +1,7 @@
+﻿  Source.cpp
+E:\DD1\EB1_U202224130_RamosHinostroza_DiegoAntonio_Pregunta_3\Grafos.h(18,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+E:\DD1\EB1_U202224130_RamosHinostroza_DiegoAntonio_Pregunta_3\Source.cpp(8,6): warning C4101: 'valor_vertice': unreferenced local variable
+  Source.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  EB1_U202224130_RamosHinostroza_DiegoAntonio_Pregunta_3.vcxproj -> E:\DD1\EB1_U202224130_RamosHinostroza_DiegoAntonio_Pregunta_3\x64\Debug\EB1_U202224130_RamosHinostroza_DiegoAntonio_Pregunta_3.exe

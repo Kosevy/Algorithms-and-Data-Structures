@@ -1,0 +1,6 @@
+﻿  Source.cpp
+E:\DD1\EB1_U202224130_RamosHinostroza_DiegoAntonio_Pregunta_2\Source.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\DD1\EB1_U202224130_RamosHinostroza_DiegoAntonio_Pregunta_2\Source.cpp(33,44): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+E:\DD1\EB1_U202224130_RamosHinostroza_DiegoAntonio_Pregunta_2\Source.cpp(40,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Source.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  EB1_U202224130_RamosHinostroza_DiegoAntonio_Pregunta_2.vcxproj -> E:\DD1\EB1_U202224130_RamosHinostroza_DiegoAntonio_Pregunta_2\x64\Debug\EB1_U202224130_RamosHinostroza_DiegoAntonio_Pregunta_2.exe
