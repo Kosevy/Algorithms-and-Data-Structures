@@ -22,6 +22,7 @@ Rúbrica de calificación:
 - Algoritmo de ordenamiento de búsqueda: 2 puntos (Excelente), 1 punto (Regular), 0 puntos (Deficiente)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Pregunta 2 – Árbol Binario de Búsqueda (10 puntos) – Caso A
  La clase MiArbolBinario permite representar árboles binarios de búsqueda para almacenar números enteros. Se solicita implementar las siguientes funciones:
  a. Primera función: En la clase MiArbolBinario se debe desarrollar la función insertar, solo deben ingresar números enteros no negativos que solo contengan entre dos y tres dígitos, por ejemplo, 45, 256,17, 598.
@@ -40,6 +41,7 @@ Pregunta 2 – Árbol Binario de Búsqueda (10 puntos) – Caso A
 - Desarrollo de la función producto_digitos para el árbol binario de búsqueda: 2 puntos (Excelente), 1 punto (Regular), 0 puntos (Deficiente)
 - Crear un menú de opciones para cada función: 1 punto (Excelente), 0 punto (Regular), 0 puntos (Deficiente)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Pregunta 3 – Grafos (4 puntos) – Caso A
  Se necesita implementar una opción que pueda crear un grafo, para representar los vértices, por ejemplo: 65, 69, 32, 18, 53 y 76. Se debe tener en cuenta que los vértices se encuentran conectados, se necesita implementar las siguientes funciones de grafos:
