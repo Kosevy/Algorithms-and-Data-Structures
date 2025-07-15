@@ -1,1 +1,1 @@
-El formato de esta evaluación está desactualizado y hay funciones por mejorar, se agrega con propósitos educativos.
+El formato de esta evaluación está desactualizado y hay funciones por mejorar, se agrega por propósitos educativos.
