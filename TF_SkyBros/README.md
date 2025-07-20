@@ -7,7 +7,7 @@ This document provides a comprehensive overview of a travel management system, a
 This overview covers the system's architecture, core components, and integration patterns. For detailed information about specific subsystems, see System Architecture for architectural details, Flight Operations for flight management specifics, Reservation Management System for booking details, and Additional Travel Services for hotel, car rental, and transfer services.
 
 System Architecture
-The SkyBros-TF system follows a layered architecture with a central orchestrator managing interactions between specialized subsystems. The application is built around a menu-driven interface that provides access to flight operations, reservation management, and additional travel services.
+The system follows a layered architecture with a central orchestrator managing interactions between specialized subsystems. The application is built around a menu-driven interface that provides access to flight operations, reservation management, and additional travel services.
 
 High-Level System Architecture:
 <img width="1707" height="316" alt="image" src="https://github.com/user-attachments/assets/89c21819-4d98-42c4-8134-5efa9d43eec8" />
