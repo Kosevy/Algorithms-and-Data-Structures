@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Effor\source\repos\W2RecursividadEjercicios\Source.cpp(20,62): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Effor\source\repos\W2RecursividadEjercicios\Source.cpp(68,3): error C2360: initialization of 'meses' is skipped by 'case' label
+      C:\Users\Effor\source\repos\W2RecursividadEjercicios\Source.cpp(64,8):
+      see declaration of 'meses'
+  
