@@ -1,0 +1,23 @@
+﻿  Source.cpp
+C:\Users\Effor\source\repos\MenuParciales\Exercise2.h(147,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Effor\source\repos\MenuParciales\Exercise5.h(65,68): warning C4806: '!=': unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Effor\source\repos\MenuParciales\Exercise5.h(69,68): warning C4806: '!=': unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Effor\source\repos\MenuParciales\Exercise5.h(73,67): warning C4806: '!=': unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Effor\source\repos\MenuParciales\Exercise8.h(52,27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Effor\source\repos\MenuParciales\Exercise8.h(80,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  Source.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  MenuParciales.vcxproj -> C:\Users\Effor\source\repos\MenuParciales\x64\Debug\MenuParciales.exe
