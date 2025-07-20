@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\TF-SkyBros\TF-SkyBros\x64\Debug\TF-SkyBros.vcxproj.AssemblyReference.cache
+C:\Users\Effor\Downloads\T2_u202224130_Estudiante_RamosHinostroza_DiegoAntonio.ZIP\Codigo_SkyBros_TF\TF-SkyBros\x64\Debug\TF-SkyBros.vcxproj.AssemblyReference.cache
+D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Trabajo Final\Hito 1\T2_u202224130_Estudiante_RamosHinostroza_DiegoAntonio\Codigo_SkyBros_TF\TF-SkyBros\x64\Debug\TF-SkyBros.vcxproj.AssemblyReference.cache
+C:\Users\user\Downloads\Hito2_SkyBros_Avance1_TF\Hito2_SkyBros_Avance1_TF\TF-SkyBros\x64\Debug\TF-SkyBros.vcxproj.AssemblyReference.cache
+D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Trabajo Final\Hito 2\Hito2_SkyBros_Avance1_TF\Hito2_SkyBros_Avance1_TF\TF-SkyBros\x64\Debug\TF-SkyBros.vcxproj.AssemblyReference.cache
+D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Trabajo Final\Hito 2\Hito_2_SkyBros_TF\TF-SkyBros\x64\Debug\TF-SkyBros.vcxproj.AssemblyReference.cache
