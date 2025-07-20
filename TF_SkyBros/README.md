@@ -22,9 +22,23 @@ Application Flow and User Journey:
 The system follows a structured flow from authentication through service selection and booking completion. The main application loop provides access to three primary functional areas: flight operations, reservation management, and additional services.
 
 Main Application Flow:
-<img width="811" height="817" alt="image" src="https://github.com/user-attachments/assets/86a20bcb-2400-42c5-8d9c-11533c0bdf9c" />
+<img width="1712" height="821" alt="image" src="https://github.com/user-attachments/assets/3356b16a-b217-4ddc-9a58-544ef735202c" />
 
 System Integration Points:
 The system demonstrates sophisticated integration between its components, particularly in how additional services interact with the flight reservation system. The integration ensures that hotels can be associated with existing flight reservations, creating a cohesive travel booking experience.
 
+Service Integration Architecture:
 <img width="1120" height="804" alt="image" src="https://github.com/user-attachments/assets/23267814-3e47-479f-b717-44a6a12f37b2" />
+
+Technical Implementation Details:
+The system demonstrates sophisticated use of C++ templates and console-based user interface design. Key technical aspects include:
+
+| Component | Implementation Details |
+|----------|----------|
+| Main Application	 | Uses Console::SetWindowSize(100, 40) for UI consistency |
+| Random Seed	 | srand(time(0)) for randomized flight data generation |
+| Template Usage | Extensive use of templates like GestorVuelos<string> and ArbolReservas<Vuelo<string>> |
+| Error Handling	 | Comprehensive validation with _getch() for user input confirmation |
+| Memory Management | Stack-based object allocation for efficient resource management |
+
+The application employs a menu-driven architecture with three main functional areas accessible through numeric selection (1-4), where option 4 serves as the application exit point.
