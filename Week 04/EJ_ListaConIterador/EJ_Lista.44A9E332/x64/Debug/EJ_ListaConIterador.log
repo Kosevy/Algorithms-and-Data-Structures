@@ -1,0 +1,9 @@
+﻿  Source.cpp
+D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Semana 4\ListaConIterador\Source.cpp(15,67): warning C4620: no postfix form of 'operator ++' found for type 'ListaS<int>::Iterador', using prefix form
+      D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Semana 4\ListaConIterador\lista.h(17,8):
+      see declaration of 'ListaS<int>::Iterador'
+  
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  Source.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  EJ_ListaConIterador.vcxproj -> D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Repo\EJ_ListaConIterador\x64\Debug\EJ_ListaConIterador.exe
