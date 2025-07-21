@@ -1,0 +1,2 @@
+C:\Users\Effor\source\repos\Reto01Tren\Reto01Tren\x64\Debug\Reto01Tren.vcxproj.AssemblyReference.cache
+C:\Users\Effor\source\repos\u202224130_Reto01\Reto01Tren\x64\Debug\Reto01Tren.vcxproj.AssemblyReference.cache
