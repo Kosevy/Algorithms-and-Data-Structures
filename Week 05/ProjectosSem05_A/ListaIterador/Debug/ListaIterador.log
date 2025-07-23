@@ -1,0 +1,6 @@
+﻿  Source.cpp
+Source.cpp(15): warning C4620: no se encontró ninguna forma postfija de 'operator ++' para el tipo 'ListaS<int>::Iterador'; se utiliza la forma de prefijo
+  c:\aed\sem05\projectossem05\listaiterador\lista.h(17): note: vea la declaración de 'ListaS<int>::Iterador'
+  Source.obj : /DEBUG:FASTLINK no se admite cuando hay presente código administrado; reiniciando vínculo con /DEBUG:FULL
+  ListaIterador.vcxproj -> C:\AED\Sem05\ProjectosSem05\Debug\ListaIterador.exe
+  ListaIterador.vcxproj -> C:\AED\Sem05\ProjectosSem05\Debug\ListaIterador.pdb (Partial PDB)

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  .NETFramework,Version=v4.6.AssemblyAttributes.cpp
+  Source.obj : /DEBUG:FASTLINK no se admite cuando hay presente código administrado; reiniciando vínculo con /DEBUG:FULL
+  ListasSimples.vcxproj -> C:\AED\Sem05\ProjectosSem05\Debug\ListasSimples.exe
+  ListasSimples.vcxproj -> C:\AED\Sem05\ProjectosSem05\Debug\ListasSimples.pdb (Partial PDB)

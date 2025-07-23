@@ -1,0 +1,19 @@
+#ifndef __NODO_H__
+#define __NODO_H__
+
+template<class T>
+class Nodo {
+public:
+	T valor;
+	Nodo<T> *anterior;
+	Nodo<T> *siguiente;
+
+public:
+	Nodo(T v, Nodo<T> *ant = NULL, Nodo<T> *sig = NULL) {
+		valor = v;
+		anterior = ant;
+		siguiente = sig;
+	}
+};
+
+#endif
