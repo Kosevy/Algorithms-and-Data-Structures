@@ -1,0 +1,4 @@
+﻿  Source.cpp
+  Source.obj : /DEBUG:FASTLINK no se admite cuando hay presente código administrado; reiniciando vínculo con /DEBUG:FULL
+  ListaCircularSimple.vcxproj -> E:\AED\Sesion05\ProjectosSem05\Debug\ListaCircularSimple.exe
+  ListaCircularSimple.vcxproj -> E:\AED\Sesion05\ProjectosSem05\Debug\ListaCircularSimple.pdb (Partial PDB)

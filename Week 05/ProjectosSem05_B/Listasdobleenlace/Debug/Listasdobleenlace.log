@@ -1,0 +1,2 @@
+﻿  Source.cpp
+Source.cpp(2): fatal error C1083: No se puede abrir el archivo incluir: 'nodo.h': No such file or directory
