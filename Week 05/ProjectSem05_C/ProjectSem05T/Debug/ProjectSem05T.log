@@ -1,0 +1,4 @@
+﻿  TestPila.cpp
+  TestPila.obj : /DEBUG:FASTLINK no se admite cuando hay presente código administrado; reiniciando vínculo con /DEBUG:FULL
+  ProjectSem05T.vcxproj -> C:\AED\Sem05\ProjectSem05T\Debug\ProjectSem05T.exe
+  ProjectSem05T.vcxproj -> C:\AED\Sem05\ProjectSem05T\Debug\ProjectSem05T.pdb (Partial PDB)
