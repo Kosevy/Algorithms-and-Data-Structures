@@ -1,0 +1,4 @@
+﻿  TestHTLineal.cpp
+  TestHTLineal.obj : /DEBUG:FASTLINK no se admite cuando hay presente código administrado; reiniciando vínculo con /DEBUG:FULL
+  HTLineal.vcxproj -> E:\AED\Sem09\HTLineal\Debug\HTLineal.exe
+  HTLineal.vcxproj -> E:\AED\Sem09\HTLineal\Debug\HTLineal.pdb (Partial PDB)
