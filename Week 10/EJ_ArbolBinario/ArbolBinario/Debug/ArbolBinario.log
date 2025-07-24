@@ -1,0 +1,22 @@
+﻿  stdafx.cpp
+  ArbolBinario.cpp
+D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Semana 10\ArbolBinario\ArbolBinario\ArbolBinario.cpp(68,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file '/ArbolBinario.cpp')
+  
+D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Semana 10\ArbolBinario\ArbolBinario\ArbolBinario.cpp(73,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file '/ArbolBinario.cpp')
+  
+D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Semana 10\ArbolBinario\ArbolBinario\ArbolBinario.cpp(90,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file '/ArbolBinario.cpp')
+  
+D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Semana 10\ArbolBinario\ArbolBinario\ArbolBinario.cpp(118,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file '/ArbolBinario.cpp')
+  
+D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Semana 10\ArbolBinario\ArbolBinario\ArbolBinario.cpp(128,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file '/ArbolBinario.cpp')
+  
+  AssemblyInfo.cpp
+  Generating Code...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  ArbolBinario.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ArbolBinario.vcxproj -> D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Semana 10\ArbolBinario\Debug\ArbolBinario.exe
