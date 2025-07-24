@@ -1,0 +1,4 @@
+﻿  TestHTSeparado.cpp
+  TestHTSeparado.obj : /DEBUG:FASTLINK no se admite cuando hay presente código administrado; reiniciando vínculo con /DEBUG:FULL
+  HTSeparado.vcxproj -> C:\Users\Proyecto\Documents\AED\Semana09\HTSeparado\Debug\HTSeparado.exe
+  HTSeparado.vcxproj -> C:\Users\Proyecto\Documents\AED\Semana09\HTSeparado\Debug\HTSeparado.pdb (Partial PDB)
