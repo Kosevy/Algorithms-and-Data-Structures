@@ -1,0 +1,17 @@
+﻿  Source.cpp
+D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Repo\PC2_CasoEstudiantesUNI\Source.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Repo\PC2_CasoEstudiantesUNI\Gestor.h(213,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+      D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Repo\PC2_CasoEstudiantesUNI\Gestor.h(213,11):
+      the template instantiation context (the oldest one first) is
+          D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Repo\PC2_CasoEstudiantesUNI\Source.cpp(10,28):
+          see reference to class template instantiation 'ListaEnlazada<Estudiante>' being compiled
+          D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Repo\PC2_CasoEstudiantesUNI\Gestor.h(170,7):
+          while compiling class template member function 'void ListaEnlazada<Estudiante>::buscarPrograma(void)'
+              D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Repo\PC2_CasoEstudiantesUNI\Source.cpp(41,35):
+              see the first reference to 'ListaEnlazada<Estudiante>::buscarPrograma' in 'main'
+  
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  Source.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  PC2_CasoEstudiantesUNI.vcxproj -> D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Repo\PC2_CasoEstudiantesUNI\x64\Debug\PC2_CasoEstudiantesUNI.exe
