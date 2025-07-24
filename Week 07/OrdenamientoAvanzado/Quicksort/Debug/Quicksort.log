@@ -1,0 +1,5 @@
+﻿  Test.cpp
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  Test.obj : /DEBUG:FASTLINK no se admite cuando hay presente código administrado; reiniciando vínculo con /DEBUG:FULL
+  Quicksort.vcxproj -> E:\AED\Sem07\OrdenamientoAvanzado\Debug\Quicksort.exe
+  Quicksort.vcxproj -> E:\AED\Sem07\OrdenamientoAvanzado\Debug\Quicksort.pdb (Partial PDB)
