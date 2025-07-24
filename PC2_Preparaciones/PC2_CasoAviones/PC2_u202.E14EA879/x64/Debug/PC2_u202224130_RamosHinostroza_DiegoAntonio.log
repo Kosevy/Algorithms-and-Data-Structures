@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Effor\Downloads\PC2_Aviones\Source.cpp(26,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Effor\Downloads\PC2_Aviones\Source.cpp(62,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  Source.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  PC2_u202224130_RamosHinostroza_DiegoAntonio.vcxproj -> C:\Users\Effor\Downloads\PC2_Aviones\x64\Debug\PC2_u202224130_RamosHinostroza_DiegoAntonio.exe
