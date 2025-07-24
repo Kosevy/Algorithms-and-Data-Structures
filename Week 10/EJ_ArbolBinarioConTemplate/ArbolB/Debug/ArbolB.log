@@ -1,0 +1,4 @@
+﻿  TestArbolB.cpp
+D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Semana 10\ArbolB\ArbolB\ArbolB.hpp(29,1): warning C4715: 'ArbolB<int>::_insertar': not all control paths return a value
+  TestArbolB.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ArbolB.vcxproj -> D:\Estudios\Ciclo 3\Algoritmos y Estructura de Datos\Semana 10\ArbolB\Debug\ArbolB.exe
